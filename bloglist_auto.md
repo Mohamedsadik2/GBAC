@@ -59,3 +59,4 @@
 | SuraniKrrish |  |  |
 | Chiwuba |  |  |
 | prity007 |  |  |
+| mohamed sadik | https://github.com/Mohamedsadik2/Health-Buddy--Virtual-assistance- | Automated Health Assistance |
